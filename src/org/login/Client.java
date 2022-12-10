@@ -1,0 +1,10 @@
+package org.login;
+
+public class Client {
+
+	public static void main(String[] args) {
+		System.out.println("clinet id is 234");
+		System.out.println("Client is TCS");
+	}
+
+}
